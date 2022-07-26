@@ -1,11 +1,11 @@
-# Proyecto Pronóstico de Demanda de Energía
+# Proyecto “House Prices - Advanced Regression Techniques”:
 Miembros:
   - César Augusto López Castillo, CC 1020470727, Ingeniería Eléctrica
-  - William Alexander Torres Zambrano, ingenieria de Sistemas
+  - William Alexander Torres Zambrano, ingenieria de Sistemas (canceló el curso)
   - Mateo Yepes Sierra, ingeniería mecánica
 
 Fuente de los datos que usamos:
-https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
 Instrucciones para la obtención de los datos:
 
