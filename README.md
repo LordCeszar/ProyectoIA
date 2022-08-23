@@ -10,4 +10,4 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 Instrucciones para la obtención de los datos:
 
 
-Videos de la entrega:
+Videos de la entrega 1: https://youtu.be/wSamwTnGoRc
